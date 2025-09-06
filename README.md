@@ -5,8 +5,7 @@ Welcome to CODE-A-പൂക്കളം, a creative coding challenge scheduled f
 
 
 ### Your Details
-- [Name] - [Branch] - [Semester]
-
+- ASHNA MARIYAM SHAJI- CS1- S3
 
 
 ### Hosted Pookalam Link
@@ -18,7 +17,7 @@ Brief description about your pookalam. What makes it special and different.
 
 
 
-### Technologies Used 
+### Technologies Used - JS and HTML+CSS
 
 
 ### Video explaining How you build the pookalam
@@ -26,6 +25,7 @@ Brief description about your pookalam. What makes it special and different.
 
 
 ### Screenshots
+<img width="1044" height="1002" alt="Screenshot 2025-09-06 092437" src="https://github.com/user-attachments/assets/e2af88d2-7655-4cb3-90f7-4f5048f5ab7b" />
 
 
 
