@@ -20,11 +20,15 @@ This digital Pookalam recreates the festive floral carpet of Onam using layered 
 
 
 ### Video explaining How you build the pookalam
-
+https://github.com/user-attachments/assets/da41b61c-faff-49a0-bb2e-9b61a5fa5f1c
 
 
 ### Screenshots
 <img width="1044" height="1002" alt="Screenshot 2025-09-06 092437" src="https://github.com/user-attachments/assets/e2af88d2-7655-4cb3-90f7-4f5048f5ab7b" />
+
+
+
+
 
 
 
