@@ -13,8 +13,7 @@ Welcome to CODE-A-പൂക്കളം, a creative coding challenge scheduled f
 
 
 ### Pookalam Description
-Brief description about your pookalam. What makes it special and different.
-
+This digital Pookalam recreates the festive floral carpet of Onam using layered circles, petals, and glowing diyas. Its uniqueness lies in blending traditional design and digital art.
 
 
 ### Technologies Used - JS and HTML+CSS
